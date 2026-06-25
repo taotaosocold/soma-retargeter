@@ -46,7 +46,7 @@
       "LeftHand": "LeftForeArm",
       "RightHand": "RightForeArm"
     },
-    "joint_offsets" : {
+    "joint_offsets": {
         "Hips": [
             [0.0, 0.0, 0.01],
             [0.5, 0.5, 0.5, 0.5]

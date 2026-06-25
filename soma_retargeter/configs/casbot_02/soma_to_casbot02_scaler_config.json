@@ -3,27 +3,27 @@
     "human_root_name": "Hips",
     "human_height_assumption": 1.8,
     "joint_scales": {
-        "Hips": 0.84,
-        "Chest": 0.84,
-        "Neck1": 0.84,
+        "Hips": 0.9,
+        "Chest": 0.9,
+        "Neck1": 0.9,
 
-        "LeftLeg": 0.84,
-        "RightLeg": 0.84,
-        "LeftShin": 0.84,
-        "RightShin": 0.84,
-        "LeftFoot": 0.84,
-        "RightFoot": 0.84,
-        "LeftToe": 0.84,
-        "RightToe": 0.84,
-        "LeftToeBase": 0.84,
-        "RightToeBase": 0.84,
+      "LeftLeg": 0.9,
+      "RightLeg": 0.9,
+      "LeftShin": 0.9,
+      "RightShin": 0.9,
+      "LeftFoot": 0.9,
+      "RightFoot": 0.9,
+      "LeftToe": 0.9,
+      "RightToe": 0.9,
+      "LeftToeBase": 0.9,
+      "RightToeBase": 0.9,
 
-        "LeftArm": 0.89,
-        "RightArm": 0.89,
-        "LeftForeArm": 0.61,
-        "RightForeArm": 0.61,
-        "LeftHand": 0.61,
-        "RightHand": 0.61
+        "LeftArm": 0.85,
+        "RightArm": 0.85,
+        "LeftForeArm": 0.85,
+        "RightForeArm": 0.85,
+        "LeftHand": 0.85,
+        "RightHand": 0.85
     },
     "joint_parents": {
         "Hips": "",
@@ -60,7 +60,7 @@
             [0.5, -0.5, -0.5, 0.5]
         ],
         "LeftFoot": [
-            [-0.017, 0.04, -0.017],
+            [-0.017, 0.04, -0.05],
             [0.695, -0.128, -0.128, 0.695]
         ],
         "LeftToe": [
@@ -80,7 +80,7 @@
             [0.5, 0.5, 0.5, 0.5]
         ],
         "RightFoot": [
-            [-0.017, -0.04, -0.017],
+            [-0.017, -0.04, -0.05],
             [0.128, 0.695, 0.695, 0.128]
         ],
         "RightToe": [

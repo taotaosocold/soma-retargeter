@@ -1,6 +1,6 @@
 {
-    "import_folder": "assets/motions/bvh",
-    "export_folder": "assets/motions/casbot02-export",
+    "import_folder": "/home/casbot/Desktop/seed/seed_inter_with_gound_filter",
+    "export_folder": "/home/casbot/Desktop/hjq/motion/retarget_motion/seed_casbot_skeleton",
     "batch_size": 100,
     "retargeter": "Newton",
     "retarget_source": "soma",
